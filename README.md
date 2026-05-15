@@ -89,15 +89,11 @@ The dataset contains student-related information such as:
 
 ## 🖥️ Dashboard Screenshot
 
-📌 **Dashboard image here**
-
 ![Dashboard Screenshot](images/dashboard/dashboard.png)
 
 ---
 
 ## 📈 Graph / Visualization Output
-
-📌 **Graph output image here**
 
 ![Output Graph](images/graph_visulation/histograph/tight_layout.png)
 
@@ -112,8 +108,7 @@ The dataset contains student-related information such as:
 ---
 
 ## 🤖 Prediction Output
-
-📌 **Prediction result image here**
+<br>
 
 ![Prediction Result](images/predication_graphs/student_performance_analytics_dashboard.png)
 
