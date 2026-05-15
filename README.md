@@ -125,7 +125,7 @@ The dataset contains student-related information such as:
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/student-exam-score-prediction.git
+git clone https://github.com/29tarunchahar/student-exam-score-prediction.git
 ```
 
 ---
@@ -152,18 +152,6 @@ pip install -r requirements.txt
 
 ```bash
 streamlit run predicting_student_exam_score.py
-```
-
----
-
-## 🌐 Open Browser
-
-After running the command, Streamlit will open automatically in your browser.
-
-Default URL:
-
-```bash
-http://localhost:8501
 ```
 
 ---
@@ -221,8 +209,8 @@ student-exam-score-prediction/
 
 ### 📬 Connect With Me
 
-* GitHub: https://github.com/your-username
-* LinkedIn: https://linkedin.com/in/your-profile
+* GitHub: https://github.com/29tarunchahar
+* LinkedIn: https://www.linkedin.com/in/29-tarun-chahar/
 
 ---
 
