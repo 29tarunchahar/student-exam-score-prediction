@@ -41,11 +41,7 @@ This project uses a trained Machine Learning model with a **Streamlit dashboard*
 * [⚙️ Installation](#️-installation)
 * [🚀 Usage](#-usage)
 * [📁 Project Structure](#-project-structure)
-* [📊 Results](#-results)
-* [🔮 Future Improvements](#-future-improvements)
-* [🤝 Contribution](#-contribution)
 * [👨‍💻 Author](#-author)
-* [📜 License](#-license)
 
 ---
 
